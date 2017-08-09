@@ -1,0 +1,23 @@
+{
+  "name": "npm-test-pkg",
+  "version": "0.1.0",
+  "description": "it is just a test package",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skidxjq/npm-test-pkg"
+  },
+  "keywords": [
+    "react",
+    "test"
+  ],
+  "author": "skidxjq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skidxjq/npm-test-pkg/issues"
+  },
+  "homepage": "https://github.com/skidxjq/npm-test-pkg"
+}

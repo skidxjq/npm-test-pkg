@@ -1,6 +1,6 @@
 {
   "name": "puhaha-puhaha",
-  "version": "0.1.0",
+  "version": "0.1.0-puhaha",
   "description": "it is just a test package",
   "main": "lib/main.js",
   "scripts": {
@@ -15,9 +15,12 @@
     "test"
   ],
   "author": "skidxjq",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/skidxjq/npm-test-pkg/issues"
   },
-  "homepage": "https://github.com/skidxjq/npm-test-pkg"
+  "homepage": "https://github.com/skidxjq/npm-test-pkg",
+  "devDependencies": {
+    "lerna": "^2.0.0"
+  }
 }

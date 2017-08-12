@@ -3,6 +3,5 @@
   "packages": [
     "packages/A",
     "packages/B"
-  ],
-  "version": "1.0.1"
+  ]
 }
